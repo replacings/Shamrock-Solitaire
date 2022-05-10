@@ -1,1 +1,3 @@
 # Shamrock-Solitaire
+
+Shamrock Solitare :)
