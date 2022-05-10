@@ -1,11 +1,5 @@
-####################
-# Project 10       #
-# CSE 231 Sect 007 #
-####################
-
 #############################################################################
-# Assignment Overview                                                       
-#   Shamrock Solitare
+#    Shamrock Solitare
 #           Program creates and deals deck
 #           Program moves kings to front of deck                                                      
 #       Outputs option menu
@@ -17,13 +11,9 @@
 #                                                                                   
 #############################################################################
 
-#Starter Code
-
-
-#DO NOT DELETE THESE LINES
 import cards, random
 from collections import deque
-random.seed(100) #random number generator will always generate 
+#random.seed(100) #random number generator will always generate 
                  #the same 'random' number (needed to replicate tests)
 
 MENU = '''     
